@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vinit1352
-- 👀 I’m interested in ...AI and ML,Devops and cloud
+- 👀 I’m interested in ...full stack web development,data science
 - 🌱 I’m currently learning ...Computer Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
